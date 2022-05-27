@@ -1,0 +1,16 @@
+.omotacListe{
+    display: flex;
+    justify-content: center;
+}
+
+.listItem{
+    margin-bottom: 12px;
+}
+
+.name{
+    margin-right: 16px;
+}
+
+.attack{
+    margin-right: 16px;
+}

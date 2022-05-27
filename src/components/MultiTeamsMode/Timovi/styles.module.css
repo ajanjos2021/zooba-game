@@ -1,0 +1,26 @@
+.boxTima {
+    border: 3px solid seagreen;
+    padding: 16px;
+    border-radius: 20px;
+    margin-bottom: 28px;
+}
+
+.imeTima {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.infoIgraca{
+    padding: 16px;
+    border-radius: 20px;
+    border: 1px solid seagreen;
+    margin-bottom: 8px;
+}
+
+.buttoniZaNapad {
+    margin-top: 8px;
+}
+
+.buttonZaNapad {
+    margin-right: 8px;
+}

@@ -1,0 +1,23 @@
+.historijaText{
+    border-radius: 20px;
+    padding: 16px;
+    border: 2px solid black;
+    background-color: seagreen;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.historijaBox{
+    margin-bottom: 20px;
+    padding: 16px;
+    border-radius: 20px;
+    border: 2px solid seagreen;
+}
+
+.mrtvac {
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 16px;
+    color: white;
+    background-color: red;
+}

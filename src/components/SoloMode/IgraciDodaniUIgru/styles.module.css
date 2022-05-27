@@ -1,0 +1,14 @@
+.boxIgraca{
+    border: 3px dashed  seagreen;
+    padding: 16px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+
+.buttoniZaNapad {
+    margin-top: 8px;
+}
+
+.buttonZaNapad {
+    margin-right: 8px;
+}

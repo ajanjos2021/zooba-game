@@ -1,0 +1,9 @@
+.modeInfo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modeInfoText {
+    margin-right: 32px;
+}
